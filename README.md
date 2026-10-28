@@ -14,7 +14,7 @@ A comprehensive hardware validation and graphic telemetry display suite for **ES
 - **Engineer:** Engr. Hanif Ullah (Engr. Hanif Khan)
 - **Specialization:** Hardware & Embedded Systems Engineer
 - **Institution:** Centre of Intelligent Systems & Network Research (CISNR), UET Peshawar
-- **WhatsApp / Phone:** [+92 311 8221686](https://wa.me/923118221686)
+- **WhatsApp / Phone:** [+92 315 9915537](https://wa.me/923159915537)
 - **LinkedIn:** [Engr. Hanif Khan](https://www.linkedin.com/in/engr-hanif-khan-628a04259/)
 - **Email:** [hanifullahshams@gmail.com](mailto:hanifullahshams@gmail.com)
 
